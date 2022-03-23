@@ -7,9 +7,11 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.sadge.devbhoomi_uttarakhand.R
+import com.sadge.devbhoomi_uttarakhand.data.HomestayItem
+import com.sadge.devbhoomi_uttarakhand.data.TraveltradeItem
 import org.json.JSONObject
 
-class HomestayAdapter(val context: Context,val dataList : MutableList<JSONObject>) : RecyclerView.Adapter<HomestayAdapter.HomestayViewHolder>() {
+class HomestayAdapter(val context: Context, val dataList: MutableList<HomestayItem>) : RecyclerView.Adapter<HomestayAdapter.HomestayViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HomestayViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.homestay_list_item,parent,false)
@@ -18,19 +20,16 @@ class HomestayAdapter(val context: Context,val dataList : MutableList<JSONObject
 
     override fun onBindViewHolder(holder: HomestayViewHolder, position: Int) {
         val dataObject = dataList[position]
-        val name = dataObject["Exported data"].toString()
-        val address = dataObject["Column2"].toString()
-        val email = dataObject["Column3"].toString()
-        val phoneString = dataObject["Column4"].toString()
+        val phoneString = dataObject.phone
         var phone = ""
-        for (i in 0..phoneString.length)
+        for (i in phoneString.indices)
         {
             if(phoneString[i]=='S' || phoneString[i]=='T') phone+="\n"
             phone += phoneString[i]
         }
-        holder.name.text = name
-        holder.address.text = address
-        holder.email.text = email
+        holder.name.text = dataObject.name.uppercase()
+        holder.address.text = dataObject.address
+        holder.email.text = dataObject.email
         holder.phone.text = phone
     }
 
