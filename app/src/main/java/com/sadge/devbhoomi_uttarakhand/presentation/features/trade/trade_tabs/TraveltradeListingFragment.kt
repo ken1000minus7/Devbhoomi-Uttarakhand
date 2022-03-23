@@ -9,7 +9,6 @@ import com.google.gson.Gson
 import com.sadge.devbhoomi_uttarakhand.R
 import com.sadge.devbhoomi_uttarakhand.data.Traveltrade
 import com.sadge.devbhoomi_uttarakhand.databinding.FragmentTraveltradeListingBinding
-import com.sadge.devbhoomi_uttarakhand.presentation.features.trade.HomestayAdapter
 import com.sadge.devbhoomi_uttarakhand.presentation.features.trade.TraveltradeAdapter
 
 class TraveltradeListingFragment : Fragment() {
