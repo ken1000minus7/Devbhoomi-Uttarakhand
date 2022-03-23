@@ -8,8 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.sadge.devbhoomi_uttarakhand.R
 import com.sadge.devbhoomi_uttarakhand.data.HomestayItem
-import com.sadge.devbhoomi_uttarakhand.data.TraveltradeItem
-import org.json.JSONObject
+
 
 class HomestayAdapter(val context: Context, val dataList: MutableList<HomestayItem>) : RecyclerView.Adapter<HomestayAdapter.HomestayViewHolder>() {
 
