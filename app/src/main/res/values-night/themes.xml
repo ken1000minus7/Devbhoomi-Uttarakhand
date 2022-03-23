@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.DevbhoomiUttarakhand" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">@color/lightprimary</item>
+        <item name="colorPrimaryVariant">@color/darkprimary</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -12,5 +12,18 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/hammersmith</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationIcon">@color/black</item>
+    </style>
+    <style name="trade_style">
+        <item name="android:background">#2F6071</item>
+    </style>
+
+    <style name="background_style">
+        <item name="android:background">#001117</item>
+    </style>
+    <style name="bottom_nav_style">
+        <item name="android:background">?attr/colorPrimaryVariant</item>
     </style>
 </resources>
