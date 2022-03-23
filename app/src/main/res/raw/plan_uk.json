@@ -1,0 +1,28 @@
+{
+    "plan": [
+        {
+            "name" : "Accommodations",
+            "image" : "https://uttarakhandtourism.gov.in/themes/utdb_frontend/images/Accommodations.jpg"
+        },
+        {
+            "name" : "Itineraries",
+            "image" : "https://uttarakhandtourism.gov.in/themes/utdb_frontend/images/Itineraries.jpg"
+        },
+        {
+            "name" : "Treks",
+            "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Kedarnath%20trekking.jpeg"
+        },
+        {
+            "name" : "Tourism Circuits",
+            "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Tourism%20Circuit%20banner.jpg"
+        },
+        {
+            "name" : "Tourist Guide",
+            "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Tour%20Guide%20banner%20image.jpg"
+        },
+        {
+            "name" : "Travel Agents",
+            "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/om%20parvat%20100X62.jpg"
+        }
+    ]
+   }

@@ -1,0 +1,28 @@
+{
+  "experience": [
+    {
+      "name": "Adventure",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Feel%20the%20thrill%20banner.jpg"
+    },
+    {
+      "name": "Destination",
+      "image": "https://uttarakhandtourism.gov.in/themes/utdb_frontend/images/Destinations_Page_Banner.jpg"
+    },
+    {
+      "name": "Events",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/tehri%20banner8.jpg"
+    },
+    {
+      "name": "Festivals and Fairs",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/culture%20banner.jpg"
+    },
+    {
+      "name": "Film Tourism",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-09/movie%20banner.jpeg"
+    },
+    {
+      "name": "Yoga and wellness",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Experience_Yoga%20Wellness_Banner.jpg"
+    }
+  ]
+}
