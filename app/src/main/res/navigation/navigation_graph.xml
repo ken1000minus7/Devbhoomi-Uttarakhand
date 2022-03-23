@@ -27,7 +27,7 @@
         tools:layout="@layout/fragment_plan" />
     <fragment
         android:id="@+id/tradeFragment"
-        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.TradeFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.trade.TradeFragment"
         android:label="fragment_trade"
         tools:layout="@layout/fragment_trade" />
 </navigation>
