@@ -72,6 +72,10 @@ dependencies {
     implementation group: 'androidx.lifecycle', name: 'lifecycle-viewmodel-ktx', version: '2.4.1'
     kapt("androidx.hilt:hilt-compiler:1.0.0")
 
+    //Sliding Effect
+    implementation 'com.github.akshaaatt:Sliding-Carousel:1.0.4'
+
+
     //Testing
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
