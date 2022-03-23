@@ -1,240 +1,274 @@
 {
-    "feelTheThrill": [
-     {
+  "feelTheThrill": [
+    {
       "name": "Bungee Jumping",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Jungle Safari",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Mountain Biking",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Paragliding",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "River Rafting",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Skiing",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Stargazing",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Trekking",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     },
-     {
+    },
+    {
       "name": "Water Sports",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-05/bungee_jumping.jpg"
-     }
-    ],
-    "godsgrace": [
-     {
+    }
+  ],
+  "godsgrace": [
+    {
       "name": "Badrinath",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-03/Badrinath.jpeg"
-     },
-     {
+    },
+    {
       "name": "Baijnath",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/baijnath-temple-2.jpg"
-     },
-     {
+    },
+    {
       "name": "Devprayag",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Body%20copy%20Pic%20shutterstock_1393434368_0.jpg"
-     },
-     {
+    },
+    {
       "name": "Gangotri",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-03/Gangotri.jpeg"
-     },
-     {
+    },
+    {
       "name": "Gopeshwar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-12/Feature%20image.jpg"
-     },
-     {
+    },
+    {
       "name": "GuptKashi",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-10/Guptkashi.jpg"
-     },
-     {
+    },
+    {
       "name": "Gwaldam",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Gwaldam%20Feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Haridwar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-11/Feature_Haridwar.jpg"
-     },
-     {
+    },
+    {
       "name": "Jageshwar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Jageswar%20feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Kailash Mansarovar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Kailash%20Mansarovar%20feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Kedarnath",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-03/Kedarnath.jpeg"
-     },
-     {
+    },
+    {
       "name": "Meetha Reetha Sahib",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Meetha%20Reetha%20Sahib%20Feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Panch Prayag",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/devprayag1_0.jpg"
-     },
-     {
+    },
+    {
       "name": "Rishikesh",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Rishikesh%20feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Yamunotri",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Yamunotri%20feature.jpg"
-     }
-    ],
-    "reconnect": [
-     {
+    }
+  ],
+  "reconnect": [
+    {
       "name": "Achintya Ayuryoga - Rishikesh",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Achintya%20Ayuryoga%20Rishikesh.jpg"
-     },
-     {
+    },
+    {
       "name": "Parmarth Niketan - Rishikesh",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Parmarth%20Niketan.jpg"
-     },
-     {
+    },
+    {
       "name": "Patanjali Arogya Kendra, Bageshwar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Achintya%20Ayuryoga%2C%20Rishikesh_Image%20Place%20holder.jpg"
-     },
-     {
+    },
+    {
       "name": "Patanjali Yogpeeth, Haridwar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Patanjali%20Yogpeeth.jpg"
-     },
-     {
+    },
+    {
       "name": "Ved Niketan, Rishikesh",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Ved%20Niketan%2C%20Rishikesh.jpg"
-     },
-     {
+    },
+    {
       "name": "Yoga Niketan Ashram",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Yoga%20Niketan%20Ashram.jpg"
-     }
-    ],
-    "intoTheWild": [
-     {
+    }
+  ],
+  "intoTheWild": [
+    {
       "name": "Corbett National Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Corbett_Feature%20image_1.jpg"
-     },
-     {
+    },
+    {
       "name": "Kedarnath Wildlife Sanctuary",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Himalayan%20Monal%20in%20Kedarnath%20Wildlife%20Sanctuary%20Uttarakhand%20India%28400_400%29.jpg"
-     },
-     {
+    },
+    {
       "name": "Rajaji national Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-10/Feature_Rajaji%20National%20Park.jpg"
-     },
-     {
+    },
+    {
       "name": "Gangotri National Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Nanda Devi National Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Feature_0.jpg"
-     },
-     {
+    },
+    {
       "name": "Binsar",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Binsar_feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Valley of Flowers",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Valley%20of%20Flowers%20feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Chaukori",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Chaukori%20feature.jpg"
-     },
-     {
+    },
+    {
       "name": "Nandhaur Wildlife Sanctuary",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-08/Feature_Nandhaur%20Wildlife%20Sanctuary.jpeg"
-     },
-     {
+    },
+    {
       "name": "Govind National Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-08/Feature_Govind%20National%20Park.jpeg"
-     }
-    ],
- "naturesBounty" : [
-  {
-   "name" : "Assan Barrage",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Assan%20Barrage-%20Feature1.jpg"
-  },
-  {
-   "name" : "Bhimtal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhimtal_Feature.jpg"
-  },
-  {
-   "name" : "Devaria Tal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Devaria%20Tal%20feature.jpg"
-  },
-  {
-   "name" : "Hemkund Lake",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
-  },
-  {
-   "name" : "Naini Tal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
-  },
-  {
-   "name" : "Nanak Sagar",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Nanak%20Sagar%20%20-%20Feature1.jpg"
-  },
-  {
-   "name" : "Naukuchia Tal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/shutterstock_1605451945.jpg"
-  },
-  {
-   "name" : "Sattal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Sattal%20feature.jpg"
-  },
-  {
-   "name" : "Tehri Lake",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Tehri%20Lakes-%20feature1.jpg"
-  },
-  {
-   "name" : "Vasuki Tal",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Vasuki%20Tal_feature1.jpg"
-  },
-  {
-   "name" : "Bhagirathi Peak",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhagirathi%20Peak1.jpg"
-  },
-  {
-   "name" : "Chandrashila Peak",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-07/Chandrashila%20peak%20feature%20image.jpg"
-  },
-  {
-   "name" : "Chaukhamba Peak",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/CHAUKHAMBA%20Peak1.jpg"
-  },
-  {
-   "name" : "Swargarohini",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Swargorihini%20feature.jpg"
-  },
-  {
-   "name" : "Trishul Peak",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Trishul%20feature.jpg"
-  },
-  {
-   "name" : "Flora & Fauna",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Feature%20image.jpeg"
-  },
-  {
-   "name" : "Valley of Flowers",
-   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Valley%20of%20Flowers%20feature.jpg"
-  }
- ]
+    }
+  ],
+  "naturesBounty": [
+    {
+      "name": "Assan Barrage",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Assan%20Barrage-%20Feature1.jpg"
+    },
+    {
+      "name": "Bhimtal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhimtal_Feature.jpg"
+    },
+    {
+      "name": "Devaria Tal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Devaria%20Tal%20feature.jpg"
+    },
+    {
+      "name": "Hemkund Lake",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
+    },
+    {
+      "name": "Naini Tal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
+    },
+    {
+      "name": "Nanak Sagar",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Nanak%20Sagar%20%20-%20Feature1.jpg"
+    },
+    {
+      "name": "Naukuchia Tal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/shutterstock_1605451945.jpg"
+    },
+    {
+      "name": "Sattal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Sattal%20feature.jpg"
+    },
+    {
+      "name": "Tehri Lake",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Tehri%20Lakes-%20feature1.jpg"
+    },
+    {
+      "name": "Vasuki Tal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Vasuki%20Tal_feature1.jpg"
+    },
+    {
+      "name": "Bhagirathi Peak",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhagirathi%20Peak1.jpg"
+    },
+    {
+      "name": "Chandrashila Peak",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-07/Chandrashila%20peak%20feature%20image.jpg"
+    },
+    {
+      "name": "Chaukhamba Peak",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/CHAUKHAMBA%20Peak1.jpg"
+    },
+    {
+      "name": "Swargarohini",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Swargorihini%20feature.jpg"
+    },
+    {
+      "name": "Trishul Peak",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Trishul%20feature.jpg"
+    },
+    {
+      "name": "Flora & Fauna",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Feature%20image.jpeg"
+    },
+    {
+      "name": "Valley of Flowers",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Valley%20of%20Flowers%20feature.jpg"
+    }
+  ],
+  "fromThePast": [
+    {
+      "name": "Jageshwar Temples",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Jageshwar%20temples.jpg"
+    },
+    {
+      "name": "Katarmal Sun Temple",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Katarmal%20Sun%20Temple.jpg"
+    },
+    {
+      "name": "Lakhamandal Temple Complex",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Lakhamandal%20temple%20complex.jpg"
+    },
+    {
+      "name": "George Everest House",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/george%20everest%20estate.jpg"
+    },
+    {
+      "name": "Tungnath Temple",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Tungnath%20Temple.jpg"
+    },
+    {
+      "name": "Gopeshwar Gopinath Temple",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Gopeshwar%20Gopinath%20temple.jpg"
+    },
+    {
+      "name": "Patal Bhuvaneshwar Cave Temple",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-09/Patal%20Bhuvneshwar%20cave%20temple.jpg"
+    },
+    {
+      "name": "Devalgarh Temples",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-12/Maa%20Raj%20Rajeshwari%20Devi%20temple_0.jpg"
+    }
+  ]
 }
