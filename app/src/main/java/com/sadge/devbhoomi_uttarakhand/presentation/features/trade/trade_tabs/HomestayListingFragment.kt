@@ -1,16 +1,15 @@
 package com.sadge.devbhoomi_uttarakhand.presentation.features.trade.trade_tabs
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import com.google.gson.Gson
 import com.sadge.devbhoomi_uttarakhand.R
-import com.sadge.devbhoomi_uttarakhand.databinding.FragmentExploreNatureBinding
+import com.sadge.devbhoomi_uttarakhand.data.Homestay
 import com.sadge.devbhoomi_uttarakhand.databinding.FragmentHomestayListingBinding
 import com.sadge.devbhoomi_uttarakhand.presentation.features.trade.HomestayAdapter
-import org.json.JSONArray
-import org.json.JSONObject
 
 class HomestayListingFragment : Fragment() {
 
@@ -26,11 +25,11 @@ class HomestayListingFragment : Fragment() {
 
     override fun onStart() {
         super.onStart()
-        val text = activity?.resources?.openRawResource(R.raw.homestay)?.bufferedReader().use {
-            it?.readText()
-        }
-        val dataList = mutableListOf(JSONObject(text))
-        val adapter = HomestayAdapter(requireContext(),dataList)
+        val jsonString = activity?.resources!!.openRawResource(R.raw.homestay).bufferedReader().use { it.readText() }
+
+        val dataList = Gson().fromJson(jsonString, Homestay::class.java)
+
+        val adapter = HomestayAdapter(requireContext(),dataList.homestayList)
         binding!!.homestayList.adapter = adapter
     }
     override fun onDestroyView() {
