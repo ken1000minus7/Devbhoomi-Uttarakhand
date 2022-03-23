@@ -356,5 +356,99 @@
       "name": "Uttarayani Mela",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/uttarayani%20mela.jpg"
     }
+  ],
+  "flavorsOfTheLand": [
+    {
+      "name": "Aloo Ke Gutke",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/IMG_20200723_094711_413.jpg"
+    },
+    {
+      "name": "Bal Mithai",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/REVISED_Bal%20mithai.jpg"
+    },
+    {
+      "name": "Bhang ki Chutney",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/IMG_20200328_111327_862.jpg"
+    },
+    {
+      "name": "Chachinda",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Chhachhinda.jpg"
+    },
+    {
+      "name": "Chainsoo",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Chainsoo.jpg"
+    },
+    {
+      "name": "Gahat Rasmi Badi",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Gahat_Rasmi_Bade.jpg"
+    },
+    {
+      "name": "Jhangore ki Kheer",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/jhangora%20ki%20kheer%20%281%29.jpg"
+    },
+    {
+      "name": "Kandali ka Saag",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Kandali%20ka%20saag.jpg"
+    },
+    {
+      "name": "Kumaoni Raita",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Kumaoni%20Raita.jpg"
+    },
+    {
+      "name": "Lesu",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Lesu.jpg"
+    },
+    {
+      "name": "Lindge ki Sabzi",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Lindge%20ki%20sabzi.jpg"
+    },
+    {
+      "name": "Madve ki Roti",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Mandua%20Ki%20Roti.jpg"
+    },
+    {
+      "name": "Rotna",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Rotna.jpg"
+    },
+    {
+      "name": "Saunle",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/%C2%A0Saunle.jpg"
+    },
+    {
+      "name": "Singodi",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Singodi.jpg"
+    },
+    {
+      "name": "Sisunak Saag",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Sisuank%20Saag.jpg"
+    },
+    {
+      "name": "Thichwani",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Thichwani.jpg"
+    },
+    {
+      "name": "Til ki Chutney",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Til%20ki%20chutney.jpg"
+    },
+    {
+      "name": "Urad dal ke Pakore",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-01/Urad%20dal%20ke%20pakode%20copy.jpg"
+    },
+    {
+      "name": "Gahat",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/gahat%20%281%29.jpg"
+    },
+    {
+      "name": "Jhangora",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Jhangora.jpg"
+    },
+    {
+      "name": "Laal Chawal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Laal%20Rice.jpg"
+    },
+    {
+      "name": "Madua",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-08/Mandua.jpg"
+    }
   ]
 }
