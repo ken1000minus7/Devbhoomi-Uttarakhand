@@ -6,13 +6,24 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.sadge.devbhoomi_uttarakhand.R
+import com.sadge.devbhoomi_uttarakhand.databinding.FragmentExploreBinding
+import com.sadge.devbhoomi_uttarakhand.databinding.FragmentTradeBinding
 
 class TradeFragment : Fragment() {
+
+    private var binding: FragmentTradeBinding? = null
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_trade, container, false)
+    ): View {
+        binding = FragmentTradeBinding.inflate(inflater)
+        return binding!!.root
     }
+
+    override fun onDestroyView() {
+        binding = null
+        super.onDestroyView()
+    }
+
 }
