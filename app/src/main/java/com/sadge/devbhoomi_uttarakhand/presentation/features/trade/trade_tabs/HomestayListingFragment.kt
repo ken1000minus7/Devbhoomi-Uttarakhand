@@ -8,6 +8,9 @@ import android.view.ViewGroup
 import com.sadge.devbhoomi_uttarakhand.R
 import com.sadge.devbhoomi_uttarakhand.databinding.FragmentExploreNatureBinding
 import com.sadge.devbhoomi_uttarakhand.databinding.FragmentHomestayListingBinding
+import com.sadge.devbhoomi_uttarakhand.presentation.features.trade.HomestayAdapter
+import org.json.JSONArray
+import org.json.JSONObject
 
 class HomestayListingFragment : Fragment() {
 
@@ -21,6 +24,15 @@ class HomestayListingFragment : Fragment() {
         return binding!!.root
     }
 
+    override fun onStart() {
+        super.onStart()
+        val text = activity?.resources?.openRawResource(R.raw.homestay)?.bufferedReader().use {
+            it?.readText()
+        }
+        val dataList = mutableListOf(JSONObject(text))
+        val adapter = HomestayAdapter(requireContext(),dataList)
+        binding!!.homestayList.adapter = adapter
+    }
     override fun onDestroyView() {
         binding = null
         super.onDestroyView()
