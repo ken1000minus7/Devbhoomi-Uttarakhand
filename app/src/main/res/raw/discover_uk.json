@@ -166,5 +166,75 @@
       "name": "Govind National Park",
       "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-08/Feature_Govind%20National%20Park.jpeg"
      }
-    ]
-   }
+    ],
+ "naturesBounty" : [
+  {
+   "name" : "Assan Barrage",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Assan%20Barrage-%20Feature1.jpg"
+  },
+  {
+   "name" : "Bhimtal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhimtal_Feature.jpg"
+  },
+  {
+   "name" : "Devaria Tal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Devaria%20Tal%20feature.jpg"
+  },
+  {
+   "name" : "Hemkund Lake",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
+  },
+  {
+   "name" : "Naini Tal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Hemkund%20Lake-%20%20Feature1.jpg"
+  },
+  {
+   "name" : "Nanak Sagar",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Nanak%20Sagar%20%20-%20Feature1.jpg"
+  },
+  {
+   "name" : "Naukuchia Tal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/shutterstock_1605451945.jpg"
+  },
+  {
+   "name" : "Sattal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Sattal%20feature.jpg"
+  },
+  {
+   "name" : "Tehri Lake",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Tehri%20Lakes-%20feature1.jpg"
+  },
+  {
+   "name" : "Vasuki Tal",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Vasuki%20Tal_feature1.jpg"
+  },
+  {
+   "name" : "Bhagirathi Peak",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Bhagirathi%20Peak1.jpg"
+  },
+  {
+   "name" : "Chandrashila Peak",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-07/Chandrashila%20peak%20feature%20image.jpg"
+  },
+  {
+   "name" : "Chaukhamba Peak",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/CHAUKHAMBA%20Peak1.jpg"
+  },
+  {
+   "name" : "Swargarohini",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Swargorihini%20feature.jpg"
+  },
+  {
+   "name" : "Trishul Peak",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Trishul%20feature.jpg"
+  },
+  {
+   "name" : "Flora & Fauna",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Feature%20image.jpeg"
+  },
+  {
+   "name" : "Valley of Flowers",
+   "image" : "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Valley%20of%20Flowers%20feature.jpg"
+  }
+ ]
+}
