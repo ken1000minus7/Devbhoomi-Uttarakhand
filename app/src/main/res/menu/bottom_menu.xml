@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/alertFragment"
+        android:id="@+id/homeFragment"
         android:title="Home"
         android:icon="@drawable/ic_launcher_background"/>
     <item
-        android:id="@+id/trackingFragment"
+        android:id="@+id/exploreFragment"
         android:title="Explore"
         android:icon="@drawable/ic_launcher_background"/>
     <item
-        android:id="@+id/blogsFragment"
+        android:id="@+id/experienceFragment"
+        android:title="Experience"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/planFragment"
         android:title="Plan"
         android:icon="@drawable/ic_launcher_background"/>
     <item
-        android:id="@+id/selfCareFragment"
+        android:id="@+id/tradeFragment"
         android:title="Trade"
         android:icon="@drawable/ic_launcher_background"/>
 </menu>
