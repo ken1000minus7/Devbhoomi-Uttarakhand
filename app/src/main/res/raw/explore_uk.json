@@ -1,0 +1,118 @@
+{
+  "Spiritual": [
+    {
+      "name": "Char Dham",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2022-03/Banner_Kedarnath.jpeg"
+    },
+    {
+      "name": "Panch Kedar",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Kedarnath%20Temple.jpg"
+    },
+    {
+      "name": "Panch Badri",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Badrinath%20banner.jpg"
+    },
+    {
+      "name": "Panch Prayag",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Panch%20Prayag%20banner.jpg"
+    },
+    {
+      "name": "Hemkund Sahib",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Hemkund%20Banner1.jpg"
+    },
+    {
+      "name": "Piran Kaliyar Sharif",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Banner%20Image.jpg"
+    },
+    {
+      "name": "Haridwar",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-10/Banner3.jpg"
+    }
+  ],
+  "Adventure": [
+    {
+      "name": "Auli",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Skiing%2C%20Auli_1.jpg"
+    },
+    {
+      "name": "Rishikesh",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Rishikesh%20Banner1.jpg"
+    },
+    {
+      "name": "New Tehri",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Tehri%20Banner2.jpg"
+    },
+    {
+      "name": "Nainital",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Banner_Nainital1.jpg"
+    },
+    {
+      "name": "Sattal",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Sattal%20banner.jpg"
+    },
+    {
+      "name": "Chopta",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/New%20Banner.jpg"
+    },
+    {
+      "name": "Mussoorie",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Mussoorie%20banner.jpg"
+    }
+  ],
+  "Nature": [
+    {
+      "name": "Valley of Flowers",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Banner1%20%282%29.jpg"
+    },
+    {
+      "name": "Chaukori",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Banner2_0.jpg"
+    },
+    {
+      "name": "Chakrata",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Chakrata%20banner.jpg"
+    },
+    {
+      "name": "Kausani",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Kausani%20banner.jpg"
+    },
+    {
+      "name": "Nainital",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Banner_Nainital1.jpg"
+    },
+    {
+      "name": "Mukteshwar",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/Mukteshwar%20Banner.jpg"
+    },
+    {
+      "name": "Ranikhet",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-06/Ranikhet%20banner_0.jpg"
+    }
+  ],
+  "Wildlife": [
+    {
+      "name": "Jim Corbett National Park",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2020-07/1.jpg"
+    },
+    {
+      "name": "Nanda Devi National Park",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Banner-1.jpg"
+    },
+    {
+      "name": "Rajaji National Park",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/Banner1.jpg"
+    },
+    {
+      "name": "Gnagotri National Park",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-03/Banner.jpg"
+    },
+    {
+      "name": "Binsar Wildlife Santuary",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Banner1.jpg"
+    },
+    {
+      "name": "Asan Barrage",
+      "image": "https://uttarakhandtourism.gov.in/sites/default/files/2021-02/Banner1_2.jpg"
+    }
+  ]
+}
