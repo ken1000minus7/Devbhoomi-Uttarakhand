@@ -1,1 +1,42 @@
-[{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/with-god%27s-grace.jpg","pics_desc_1":"Known as Devbhumi or land of the Gods, the state holds a prominent position in the country’s religious map."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/feel-the-thrill.jpg","pics_desc_1":"From camping, skiing and river rafting to stargazing, trekking and bunjee jumping - Uttarakhand is a heaven for thrill seekers."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/nature%27s-bounty.jpg","pics_desc_1":"Cocooned in nature, away from the chaos and fumes of the city, Uttarakhand is a breath of fresh air and a sight for soar eyes."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/into-the-wild.jpg","pics_desc_1":"Conservation reserves, world heritage sites and national parks teeming with varied flora and fauna - Uttarakhand has it all."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/reconnect.jpg","pics_desc_1":"Touted as the yoga capital of the world, Uttarakhand boasts a number of centres run by professionals and is known for spiritual wellness as well."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/from-the-past.jpg","pics_desc_1":"Uttarakhand’s history and spiritual sites find mention not only in textbooks but also in India’s ancient texts."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/flavours-of-the-land.jpg","pics_desc_1":"From wholesome ingredients to flavourful spices, Uttarakhand's food is a blend of taste and nutrition."},{"pics":"https://uttarakhandtourism.gov.in/sites/default/files/2021-01/voice-and-culture.jpg","pics_desc_1":"Uttarakhand is home to warm and friendly people whose cultures and traditions are likely to be seen or experienced anywhere else."}]
+[
+  {
+    "title": "With God's Grace",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/with-god%27s-grace.jpg",
+    "pics_desc_1": "Known as Devbhumi or land of the Gods, the state holds a prominent position in the country’s religious map."
+  },
+  {
+    "title": "Feel the Thrill",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/feel-the-thrill.jpg",
+    "pics_desc_1": "From camping, skiing and river rafting to stargazing, trekking and bunjee jumping - Uttarakhand is a heaven for thrill seekers."
+  },
+  {
+    "title": "Nature's Bounty",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/nature%27s-bounty.jpg",
+    "pics_desc_1": "Cocooned in nature, away from the chaos and fumes of the city, Uttarakhand is a breath of fresh air and a sight for soar eyes."
+  },
+  {
+    "title": "Into  the Wild",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/into-the-wild.jpg",
+    "pics_desc_1": "Conservation reserves, world heritage sites and national parks teeming with varied flora and fauna - Uttarakhand has it all."
+  },
+  {
+    "title": "Reconnect",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/reconnect.jpg",
+    "pics_desc_1": "Touted as the yoga capital of the world, Uttarakhand boasts a number of centres run by professionals and is known for spiritual wellness as well."
+  },
+  {
+    "title": "From the Past",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/from-the-past.jpg",
+    "pics_desc_1": "Uttarakhand`s history and spiritual sites find mention not only in textbooks but also in India’s ancient texts."
+  },
+  {
+    "title": "Flavours of the Land",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/flavours-of-the-land.jpg",
+    "pics_desc_1": "From wholesome ingredients to flavourful spices, Uttarakhand's food is a blend of taste and nutrition."
+  },
+  {
+    "title": "Voices and Culture",
+    "pics": "https://uttarakhandtourism.gov.in/sites/default/files/2021-01/voice-and-culture.jpg",
+    "pics_desc_1": "Uttarakhand is home to warm and friendly people whose cultures and traditions are likely to be seen or experienced anywhere else."
+  }
+]
