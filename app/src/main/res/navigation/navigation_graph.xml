@@ -11,6 +11,62 @@
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
 
+        <action
+            android:id="@+id/action_homeFragment_to_godsgraceFragment"
+            app:destination="@id/godsgraceFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+        <action
+            android:id="@+id/action_homeFragment_to_flavoursFragment"
+            app:destination="@id/flavoursFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_natureBountyFragment"
+            app:destination="@id/natureBountyFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_wildFragment"
+            app:destination="@id/wildFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_reconnectFragment"
+            app:destination="@id/reconnectFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_voiceCultureFragment"
+            app:destination="@id/voiceCultureFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_pastFragment"
+            app:destination="@id/pastFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_feelTheThrillFragment"
+            app:destination="@id/feelTheThrillFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"/>
     </fragment>
     <fragment
         android:id="@+id/exploreFragment"
@@ -38,4 +94,44 @@
         android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.trade.TradeFragment"
         android:label="fragment_trade"
         tools:layout="@layout/fragment_trade" />
+    <fragment
+        android:id="@+id/godsgraceFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.godsGrace.GodsgraceFragment"
+        android:label="fragment_godsgrace"
+        tools:layout="@layout/fragment_godsgrace" />
+    <fragment
+        android:id="@+id/flavoursFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.flavoursOfTheLand.FlavoursFragment"
+        android:label="fragment_flavours"
+        tools:layout="@layout/fragment_flavours" />
+    <fragment
+        android:id="@+id/natureBountyFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.naturesBounty.NatureBountyFragment"
+        android:label="fragment_nature_bounty"
+        tools:layout="@layout/fragment_nature_bounty" />
+    <fragment
+        android:id="@+id/wildFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.intoTheWild.WildFragment"
+        android:label="fragment_wild"
+        tools:layout="@layout/fragment_wild" />
+    <fragment
+        android:id="@+id/reconnectFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.reconnect.ReconnectFragment"
+        android:label="fragment_reconnect"
+        tools:layout="@layout/fragment_reconnect" />
+    <fragment
+        android:id="@+id/voiceCultureFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.voicesAndCulture.VoiceCultureFragment"
+        android:label="fragment_voice_culture"
+        tools:layout="@layout/fragment_voice_culture" />
+    <fragment
+        android:id="@+id/pastFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.fromThePast.PastFragment"
+        android:label="fragment_past"
+        tools:layout="@layout/fragment_past" />
+    <fragment
+        android:id="@+id/feelTheThrillFragment"
+        android:name="com.sadge.devbhoomi_uttarakhand.presentation.features.home.discover.feelTheThrill.FeelTheThrillFragment"
+        android:label="fragment_feel_the_thrill"
+        tools:layout="@layout/fragment_feel_the_thrill" />
 </navigation>
