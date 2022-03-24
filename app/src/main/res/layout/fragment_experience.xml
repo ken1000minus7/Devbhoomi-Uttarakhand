@@ -8,7 +8,7 @@
     tools:context=".presentation.features.experience.ExperienceFragment">
     <TextView
         android:id="@+id/experienceTV"
-        android:text="Plan"
+        android:text="Experience"
         android:layout_margin="@dimen/_10sdp"
         android:textSize="@dimen/_30ssp"
         android:layout_width="wrap_content"
