@@ -12,17 +12,17 @@ import com.bumptech.glide.Glide
 import com.sadge.devbhoomi_uttarakhand.R
 import com.sadge.devbhoomi_uttarakhand.data.HomepageDiscoverUKItem
 
-class DiscoverUKHomeAdapter(private val items:ArrayList<HomepageDiscoverUKItem>, private val context: Context,val listens: Listens):RecyclerView.Adapter<DiscoverUKHomeAdapter.ViewHolder>() {
+class DiscoverUKHomeAdapter(private val items:ArrayList<HomepageDiscoverUKItem>, private val context: Context):RecyclerView.Adapter<DiscoverUKHomeAdapter.ViewHolder>() {
    inner class ViewHolder(itemView : View):RecyclerView.ViewHolder(itemView) {
         val image: ImageView = itemView.findViewById(R.id.discoverImageUKHome)
         val title: TextView = itemView.findViewById(R.id.discoverTitle)
        val disc: TextView = itemView.findViewById(R.id.discoverContent)
         val card: CardView = itemView.findViewById(R.id.cardUK)
-        init {
-            card.setOnClickListener{
-                listens.onCardClicked(items[adapterPosition])
-            }
-        }
+//        init {
+//            card.setOnClickListener{
+//                listens.onCardClicked(items[adapterPosition])
+//            }
+//        }
 
     }
 

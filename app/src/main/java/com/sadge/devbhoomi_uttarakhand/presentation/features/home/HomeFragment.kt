@@ -22,7 +22,7 @@ import com.sadge.devbhoomi_uttarakhand.util.Strings.intoTheWild
 import com.sadge.devbhoomi_uttarakhand.util.Strings.naturesBounty
 import com.sadge.devbhoomi_uttarakhand.util.Strings.reconnect
 
-class HomeFragment : Fragment(),Listens {
+class HomeFragment : Fragment() {
 
     private var binding: FragmentHomeBinding? = null
     private var adapter: DiscoverUKHomeAdapter? = null
@@ -32,7 +32,7 @@ class HomeFragment : Fragment(),Listens {
         val jsonString = activity?.resources!!.openRawResource(R.raw.images_homepage_discover_uttarakhand).bufferedReader().use { it.readText() }
 
         val dataList = Gson().fromJson(jsonString, HomepageDiscoverUK::class.java)
-        adapter = DiscoverUKHomeAdapter(dataList,requireContext(),this)
+        adapter = DiscoverUKHomeAdapter(dataList,requireContext())
         binding!!.rvHome.adapter = adapter
     }
 
@@ -62,42 +62,42 @@ class HomeFragment : Fragment(),Listens {
         super.onDestroyView()
     }
 
-    override fun onCardClicked(item: HomepageDiscoverUKItem) {
-        when (item.title) {
-            godsGrace -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToGodsgraceFragment()
-                findNavController().navigate(action)
-            }
-            intoTheWild -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToWildFragment()
-                findNavController().navigate(action)
-            }
-            feelTheThrill -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToFeelTheThrillFragment()
-                findNavController().navigate(action)
-            }
-            naturesBounty -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToNatureBountyFragment()
-                findNavController().navigate(action)
-            }
-            reconnect -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToReconnectFragment()
-                findNavController().navigate(action)
-            }
-            fromThePast -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToPastFragment()
-                findNavController().navigate(action)
-            }
-            flavoursOfTheLand -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToFlavoursFragment()
-                findNavController().navigate(action)
-            }
-            else -> {
-                val action = HomeFragmentDirections.actionHomeFragmentToVoiceCultureFragment()
-                findNavController().navigate(action)
-            }
-        }
-
-    }
-
+//    override fun onCardClicked(item: HomepageDiscoverUKItem) {
+//        when (item.title) {
+//            godsGrace -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToGodsgraceFragment()
+//                findNavController().navigate(action)
+//            }
+//            intoTheWild -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToWildFragment()
+//                findNavController().navigate(action)
+//            }
+//            feelTheThrill -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToFeelTheThrillFragment()
+//                findNavController().navigate(action)
+//            }
+//            naturesBounty -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToNatureBountyFragment()
+//                findNavController().navigate(action)
+//
+//            }
+//            reconnect -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToReconnectFragment()
+//                findNavController().navigate(action)
+//            }
+//            fromThePast -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToPastFragment()
+//                findNavController().navigate(action)
+//            }
+//            flavoursOfTheLand -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToFlavoursFragment()
+//                findNavController().navigate(action)
+//            }
+//            else -> {
+//                val action = HomeFragmentDirections.actionHomeFragmentToVoiceCultureFragment()
+//                findNavController().navigate(action)
+//            }
+//        }
+//
+//    }
 }
