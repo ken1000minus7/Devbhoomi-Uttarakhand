@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardUK"
+    android:background="@android:color/transparent"
+    android:layout_height="@dimen/_190sdp"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="@dimen/_15sdp"
+    android:layout_margin="@dimen/_5sdp">
+
+
+    <ImageView
+        android:id="@+id/adventureImage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_160sdp"
+        android:scaleType="fitXY"
+        android:background="@android:color/transparent"/>
+
+
+    <TextView
+        android:id="@+id/adventureTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@tools:sample/lorem"
+        android:layout_margin="@dimen/_8sdp"
+        android:layout_gravity="bottom|start"
+        android:layout_marginBottom="@dimen/_12sdp"/>
+
+</androidx.cardview.widget.CardView>
