@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.DevbhoomiUttarakhand" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#012767</item>
+        <item name="colorPrimary">#B54D00</item>
         <item name="colorPrimaryVariant">@color/lightprimary</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
@@ -19,7 +19,7 @@
     </style>
 
     <style name="trade_style">
-        <item name="android:background">#C6DFFF</item>
+        <item name="android:background">#EFF6FF</item>
     </style>
 
     <style name="background_style">
